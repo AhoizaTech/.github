@@ -3,11 +3,11 @@
 <!-- Replace with the actual hosted URL of the Ahoiza octagon logo.
      For automatic light/dark mode, use a <picture> element with two assets:
      <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://ahoiza.tech/logo-dark.svg">
-       <img src="https://ahoiza.tech/logo-light.svg" alt="Ahoiza Technologies" width="120">
+       <source media="(prefers-color-scheme: dark)" srcset="https://ahoiza.tech/assets/logo-BeMuDsQM.svg">
+       <img src="https://ahoiza.tech/assets/logo-BeMuDsQM.svg" alt="Ahoiza Technologies" width="120">
      </picture>
 -->
-<img src="https://ahoiza.tech/logo.svg" alt="Ahoiza Technologies" width="120">
+<img src="https://ahoiza.tech/assets/logo-BeMuDsQM.svg" alt="Ahoiza Technologies" width="120">
 
 # Ahoiza Technologies
 
